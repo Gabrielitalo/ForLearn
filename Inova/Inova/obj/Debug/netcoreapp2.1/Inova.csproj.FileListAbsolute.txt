@@ -1,0 +1,11 @@
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\bin\Debug\netcoreapp2.1\Inova.deps.json
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\bin\Debug\netcoreapp2.1\Inova.runtimeconfig.json
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\bin\Debug\netcoreapp2.1\Inova.runtimeconfig.dev.json
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\bin\Debug\netcoreapp2.1\Inova.dll
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\bin\Debug\netcoreapp2.1\Inova.pdb
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.csprojAssemblyReference.cache
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.AssemblyInfoInputs.cache
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.AssemblyInfo.cs
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.dll
+C:\Users\Gabriel_2\Desktop\Desenvolver\C#\Inova\Inova\Inova\obj\Debug\netcoreapp2.1\Inova.pdb
