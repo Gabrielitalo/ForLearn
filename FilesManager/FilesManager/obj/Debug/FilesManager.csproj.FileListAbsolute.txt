@@ -1,0 +1,10 @@
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\bin\Debug\FilesManager.exe.config
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\bin\Debug\FilesManager.exe
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\bin\Debug\FilesManager.pdb
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.csprojAssemblyReference.cache
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.Form1.resources
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.Properties.Resources.resources
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.GenerateResource.cache
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.csproj.CoreCompileInputs.cache
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.exe
+C:\Users\Jessica\Desktop\Projects\FilesManager\FilesManager\obj\Debug\FilesManager.pdb
